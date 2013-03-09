@@ -1,2 +1,8 @@
-Settings/Auto Save Session.sublime_session
 Packages/User/RubyTest.last-run
+Backup/
+Packages/
+Settings/License.sublime_license
+Installed Packages/
+Pristine Packages/
+Settings/
+!/Packages/User
