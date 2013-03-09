@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alternative Autocompletion",
+		"BeautifyRuby",
+		"ERB Insert and Toggle Commands",
+		"Indent XML",
+		"Package Control",
+		"Pandoc",
+		"Rake",
+		"RSpec",
+		"RubyFormat",
+		"RubyTest",
+		"Sass",
+		"SmartMarkdown"
+	]
+}

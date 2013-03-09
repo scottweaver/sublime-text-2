@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:subject}).to eq ${2:value}
+]]></content>
+  <tabTrigger>exeq</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+</snippet>

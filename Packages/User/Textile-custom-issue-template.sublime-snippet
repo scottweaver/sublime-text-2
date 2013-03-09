@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+p(issue). *Issue:* $1
+
+p(cause). *Cause:* $2
+
+p(solution). *Solution:* $3
+
+p(notes). *Notes:* $4
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ist</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.textile</scope>
+</snippet>
