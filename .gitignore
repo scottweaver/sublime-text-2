@@ -1,8 +1,9 @@
 Packages/User/RubyTest.last-run
 Backup/
-Packages/
+Packages/*
+!Packages/User/
 Settings/License.sublime_license
 Installed Packages/
 Pristine Packages/
 Settings/
-!/Packages/User
+
